@@ -1,2 +1,2 @@
-# coding-bat--Array1
-Solutions to codingbat array1
+# amcat pattern
+Solutions to amcat question set
